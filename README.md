@@ -1,13 +1,13 @@
 <div align="center">
 <a href="https://brunoscheufler.com">
-    <img src="https://raw.githubusercontent.com/BrunoScheufler/BrunoScheufler/master/header.png"/>
+    <img src="header.png"/>
 </a>
 </div>
 
-## 👋 It's great to have you here!
+👋 Welcome to my profile! I'm [Bruno](https://brunoscheufler.com/), you might know me from my [posts](https://brunoscheufler.com/) focused on software engineering, with technologies including GraphQL, Go, Node.js, SwiftUI, and other things I have picked up over the years.
 
-🔧 I'm building products for the modern web and mobile applications using technologies like **Go**, **GraphQL**, **Docker**, and **Swift** (+ **SwiftUI**).
+- 📝 I regularly [write posts](https://brunoscheufler.com/) on software engineering, my experience building digital software products, and other areas I care about
+- 🌍 I'm building the GraphQL-native, headless-first CMS of the future with the amazing folks at [GraphCMS](https://graphcms.com)
+- 🍻 I'm studying Management and Technology at the Technical University of Munich
 
-📚 I write about what I'm working on [over on my blog](https://brunoscheufler.com).
-
-🚀 I'm also building the CMS of the future with my amazing team over at [GraphCMS](https://graphcms.com).
+If you want to get in touch, feel free to reach out on Twitter or drop a mail 👍
