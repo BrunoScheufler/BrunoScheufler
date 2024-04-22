@@ -1,13 +1,15 @@
 <div align="center">
-<a href="https://codetrail.io">
-    <img src="codetrail.png"/>
+<a href="https://brunoscheufler.com">
+    <img src="blog.png"/>
 </a>
 </div>
 
-👋 Welcome to my profile! I'm [Bruno](https://brunoscheufler.com/), you might know me from my [posts](https://brunoscheufler.com/) focused on software engineering, with technologies including GraphQL, Go, Node.js, SwiftUI, and other things I have picked up over the years.
+👋 Welcome to my profile! I'm [Bruno](https://brunoscheufler.com), a Senior Software Engineer and founder from Munich, Germany.
 
-- 🆕 I'm currently working hard on building [CodeTrail](https://codetrail.io), which helps engineering teams document and share knowledge effortlessly and close to the codebase 
+I help scale engineering teams in high-growth environments, onboard new engineers, make architectural decisions, and build a culture of trust and ownership to enable engineers to do their best work. Previously, I scaled engineering teams and infrastructure at Hygraph and built CodeTrail, Anzu, and sonata.
+
+- 🆕 I'm currently working as a Senior Distributed Systems Engineer at [Inngest](https://www.inngest.com), which makes it easy for teams to reduce complexity and save time building durable functions and background jobs
 - 📝 I regularly [write posts](https://brunoscheufler.com/) on software engineering, my experience building digital software products, and other areas I care about
-- 🍻 I studied Management and Technology at the Technical University of Munich
+- 🍻 I studied Computer Science and Management at the Technical University of Munich
 
 If you want to get in touch, feel free to reach out on X or drop a mail 👍
